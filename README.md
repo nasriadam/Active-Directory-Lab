@@ -46,7 +46,7 @@ The lab environment includes:
 
 A detailed report describing the architecture, configuration steps, and implementation details of this Active Directory environment is available below:
 
-📄 [Active Directory Lab Report](./Active_Directory_Lab_Report.pdf)
+📄 [Active Directory Lab Report]((https://github.com/nasriadam/Active-Directory-Lab/blob/main/Mise_en_place_d_une_infrastructure_Active_Directory_sous_Windows_Server_2022.pdf)https://github.com/nasriadam/Active-Directory-Lab/blob/main/Mise_en_place_d_une_infrastructure_Active_Directory_sous_Windows_Server_2022.pdf)
 
 ---
 
